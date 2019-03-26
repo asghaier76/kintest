@@ -6,18 +6,18 @@ This is a repo for testing integrating kin.js library for the KIN Blockchain in 
 
 ## Environment
 
-Ionic:
+- Ionic:
 
-   ionic (Ionic CLI)  : v4.1.1 
-   Ionic Framework    : ionic-angular v3.9.3
-   @ionic/app-scripts : v3.2.1
-   cordova: v8.0.0
-   angular: v5.2.11
+  - ionic (Ionic CLI)  : v4.1.1 
+  - Ionic Framework    : ionic-angular v3.9.3
+  - @ionic/app-scripts : v3.2.1
+  - cordova: v8.0.0
+  - angular: v5.2.11
 
-System:
+- System:
 
-   NodeJS : v10.9.0
-   npm    : 6.4.0
+  - NodeJS : v10.9.0
+  - npm    : 6.4.0
 
 ## Install and Run
 
