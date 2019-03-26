@@ -17,10 +17,9 @@ export class HomePage {
 
   keys: any = {};
   wallet: KinWallet;
-  account: any = {};
   loader1: any;
 
-  
+
   constructor(
               public navCtrl: NavController, 
               public loading: LoadingController,
@@ -37,7 +36,7 @@ export class HomePage {
     console.log(this.keys.publicKey());
     console.log(this.keys.secret());
     
-    this.account.pubkey = this.keys.publicKey();
+    // this.account.pubkey = this.keys.publicKey();
     // this.buildWallet();
   }
 
